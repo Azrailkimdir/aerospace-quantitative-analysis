@@ -5,12 +5,10 @@
 ---
  
 ## Project Objective
- 
 The purpose of this project is to explore how launch angle affects projectile range using mathematics, Excel, and basic aerospace principles.
- 
+
 ---
 ## Research Question
-
 Why does a projectile launched at 45° achieve the maximum range when launch velocity remains constant?
 
 ---
@@ -23,8 +21,8 @@ Why does a projectile launched at 45° achieve the maximum range when launch vel
 
 ---
 ## Key Findings
-### Maximum Range
 
+### Maximum Range
 The analysis showed that a launch angle of **45°** produced the maximum horizontal range.
 
 ### Angle Comparison
@@ -36,6 +34,7 @@ Interestingly, complementary angles produced identical ranges:
 - 40° and 50°
 
 This helped demonstrate how mathematical relationships influence projectile motion.
+
 ---
 ## Aerospace Concepts
 - Projectile Motion
