@@ -1,7 +1,3 @@
-## Project Status
- 
----
- 
 ## Project Objective
 The purpose of this project is to explore how launch angle affects projectile range using mathematics, Excel, and basic aerospace principles.
 
