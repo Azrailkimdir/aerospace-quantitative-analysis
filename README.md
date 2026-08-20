@@ -58,6 +58,7 @@ This helped demonstrate how mathematical relationships influence projectile moti
 Before working on this analysis, I assumed that increasing launch angle would continuously increase range.
 
 However, I discovered that range only increases up to a certain point and reaches its maximum at 45°. This small study helped me better understand how mathematics can be used to predict real-world flight behavior.
+
 ---
 ## Future Improvements
 - Flight Time Analysis
