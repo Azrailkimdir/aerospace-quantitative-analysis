@@ -66,9 +66,9 @@ However, I discovered that range only increases up to a certain point and reache
 ---
 ## Project Files
 
-- Excel Spreadsheet
-- Data Visualization
-- Engineering Notes
+- Excel Spreadsheet [Excel Spreadsheet](Launch_Angle_Analysis.pdf)
+- Data Visualization [Data Visualization](Launch_Angle_Analysis.png)
+- Engineering Notes [Engineering Notes](Quantitative_Thinking_1_Engineering_Notebook.pdf)
 
 ---
 
