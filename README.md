@@ -1,7 +1,5 @@
 ## Project Status
  
-🚧 In Development
- 
 ---
  
 ## Project Objective
